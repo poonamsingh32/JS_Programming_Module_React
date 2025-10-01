@@ -1,0 +1,1 @@
+ages.splice(5,1)
