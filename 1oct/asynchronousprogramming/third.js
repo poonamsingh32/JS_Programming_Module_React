@@ -1,0 +1,1 @@
+let timer1=setInterval(`console.log("Hi=1")`,1000)
