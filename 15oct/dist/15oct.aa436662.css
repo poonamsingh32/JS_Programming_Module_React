@@ -1,0 +1,26 @@
+.card {
+  border: 1px solid #000;
+  border-radius: 8px;
+  max-width: 250px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card h4, .card p {
+  margin: 6px 0;
+}
+
+.cardinfo {
+  padding: 0 8px;
+}
+
+.container {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 12px;
+  display: flex;
+}
+/*# sourceMappingURL=15oct.aa436662.css.map */
